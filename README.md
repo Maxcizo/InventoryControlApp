@@ -3,13 +3,13 @@ Aplicación de Gestión de inventario para la División de Desarrollo de Softwar
 
 ## Contribución
 
-Para pdoer agregar tus cambios, por favor sigue los siguientes pasos:
+Para poder agregar tus cambios, por favor sigue los siguientes pasos:
 
 1. Crea un fork del repositorio.
 2. Clona tu fork localmente.
-3. Crea una rama para tus cambios: `git checkout -b feature/nueva-funcion`.
-4. Realiza tus cambios y haz commits: `git commit -m 'Añade nueva función'`.
-5. Sube tus cambios a tu fork: `git push origin feature/nueva-funcion`.
+3. Crea una rama para tus cambios: `git checkout -b feature/new-feature`.
+4. Realiza tus cambios y haz commits: `git commit -m 'add new feature'`. (Recuerda que el nombre debe ser con infinitivo (add, no added). Un buen nombre de commit debe responder a "This commit will..." y ahí entra "add changes", "remove code", "modify function"
+5. Sube tus cambios a tu fork: `git push origin feature/new-feature`. 
 6. Envía una solicitud de extracción (Pull Request) con una descripción detallada de tus cambios.
 
 Nosotros revisaremos tu Pull Request y lo fusionaremos una vez que sea aprobado.
@@ -19,7 +19,7 @@ Nosotros revisaremos tu Pull Request y lo fusionaremos una vez que sea aprobado.
 
 1. **No tocar código que no es tuyo**: Evita realizar cambios en código que no has creado o que no te ha sido asignado. Comunica tu interés y colabora con el propietario del código para implementar los cambios de manera colaborativa.
 
-2. **Siempre trabajar con forks**: Antes de realizar cambios en el repositorio principal, crea una copia (fork) del mismo. Trabaja en tu fork y, cuando hayas completado tus cambios, crea una solicitud de extracción (Pull Request) al repositorio principal. Esto nos permite mantener un registro claro de las contribuciones y revisar los cambios antes de fusionarlos con el código principal.
+2. **Siempre trabajar con forks**: Antes de realizar cambios en el repositorio principal, crea una copia (fork) del mismo. Trabaja en tu fork y, cuando hayas completado tus cambios, crea una solicitud de extracción (Pull Request) al repositorio principal.
 
 3. **Variables en camelCase**: Las variables deben nombrarse en camelCase, lo que significa que la primera palabra comienza con minúscula y las palabras siguientes comienzan con mayúscula (por ejemplo, `userName`, `componentName`).
 
