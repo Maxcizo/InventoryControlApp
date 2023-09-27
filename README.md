@@ -8,7 +8,7 @@ Para poder agregar tus cambios, por favor sigue los siguientes pasos:
 1. Crea un fork del repositorio.
 2. Clona tu fork localmente.
 3. Crea una rama para tus cambios: `git checkout -b feature/new-feature`.
-4. Realiza tus cambios y haz commits: `git commit -m 'add new feature'`. (Recuerda que el nombre debe ser con infinitivo (add, no added). Un buen nombre de commit debe responder a "This commit will..." y ahí entra "add changes", "remove code", "modify function"
+4. Realiza tus cambios y haz commits: `git commit -m 'add new feature'`. (Recuerda que el nombre debe ser con infinitivo (add, no added). Un buen nombre de commit debe responder a "This commit will..." y ahí entra "add changes", "remove code", "modify function")
 5. Sube tus cambios a tu fork: `git push origin feature/new-feature`. 
 6. Envía una solicitud de extracción (Pull Request) con una descripción detallada de tus cambios.
 
